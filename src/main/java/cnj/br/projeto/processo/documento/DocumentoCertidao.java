@@ -1,4 +1,4 @@
-package processo.documento;
+package cnj.br.projeto.processo.documento;
 
 public class DocumentoCertidao {
     private Long idDocumentoCertidao;
