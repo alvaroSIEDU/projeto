@@ -1,4 +1,4 @@
-package processo.documento;
+package cnj.br.projeto.processo.documento;
 
 import java.time.LocalDate;
 import java.util.List;
