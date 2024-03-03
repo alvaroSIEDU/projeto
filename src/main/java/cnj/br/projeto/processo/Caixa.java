@@ -1,4 +1,4 @@
-package processo;
+package cnj.br.projeto.processo;
 
 import java.util.List;
 
